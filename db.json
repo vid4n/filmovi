@@ -20,6 +20,55 @@
       "year": 1974,
       "rating": 9.0,
       "actorId": [4,5]
+    },
+    {
+      "id": 4,
+      "name": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "actorId": [6]
+    },
+    {
+      "id": 5,
+      "name": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 8.9,
+      "actorId": [7,8,9]
+    },
+    {
+      "id": 6,
+      "name": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.9,
+      "actorId": [10,11,12]
+    },
+    {
+      "id": 7,
+      "name": "Schindler's List",
+      "year": 1993,
+      "rating": 8.9,
+      "actorId": [13,14,15]
+    },
+    {
+      "id": 8,
+      "name": "12 Angry Men",
+      "year": 1957,
+      "rating": 8.9,
+      "actorId": [16,17,18]
+    },
+    {
+      "id": 9,
+      "name": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "actorId": [19,20,21]
+    },
+    {
+      "id": 10,
+      "name": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "actorId": [22,23,24]
     }
   ],
   "actors": [
@@ -42,6 +91,82 @@
     {
         "id": 5,
         "name": "Robert De Niro"
+    },
+    {
+        "id": 6,
+        "name": "Christian Bale"
+    },
+    {
+        "id": 7,
+        "name": "Elijah Wood"
+    },
+    {
+        "id": 8,
+        "name": "Viggo Mortensen"
+    },
+    {
+        "id": 9,
+        "name": "Ian McKellen"
+    },
+    {
+        "id": 10,
+        "name": "John Travolta"
+    },
+    {
+        "id": 11,
+        "name": "Uma Thurman"
+    },
+    {
+        "id": 12,
+        "name": "Samuel L. Jackson"
+    },
+    {
+        "id": 13,
+        "name": "Liam Neeson"
+    },
+    {
+        "id": 14,
+        "name": "Ralph Fiennes"
+    },
+    {
+        "id": 15,
+        "name": "Ben Kingsley"
+    },
+    {
+        "id": 16,
+        "name": "Henry Fonda"
+    },
+    {
+        "id": 17,
+        "name": "Lee J. Cobb"
+    },
+    {
+        "id": 18,
+        "name": "Martin Balsam"
+    },
+    {
+        "id": 19,
+        "name": "Leonardo DiCaprio"
+    },
+    {
+        "id": 20,
+        "name": "Joseph Gordon-Levitt"
+    },
+    {
+        "id": 21,
+        "name": "Ellen Page"
+    },
+    {
+        "id": 22,
+        "name": "Brad Pitt"
+    },
+    {
+        "id": 23,
+        "name": "Edward Norton"
+    },
+    {
+        "id": 24,
+        "name": "Meat Loaf"
     }
   ]
 }
